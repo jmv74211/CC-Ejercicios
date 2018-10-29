@@ -1,6 +1,6 @@
 # Objetivos de la asignatura
 
-### Primera sesión [3 Octubre]
+### Primera semana [3 Octubre]
 
 
 * [x] 1.Entender la metodología docente, de evaluación y de interacción de la asignatura.
